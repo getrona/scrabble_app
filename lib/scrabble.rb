@@ -27,7 +27,8 @@ class String
       'j' => 8,
       'x' => 8,
       'q' => 10,
-      'z' => 10
+      'z' => 10,
+      ' ' => 0
      }
 
      user_input = self.split("")
